@@ -1,0 +1,44 @@
+Career Coaching Knowledge Base
+
+Resume Tips:
+A strong resume should be one page long for students and early professionals.
+Use action verbs like built, developed, implemented, designed.
+Focus on measurable achievements instead of responsibilities.
+Example: "Improved model accuracy by 18%" instead of "Worked on ML model".
+
+Interview Preparation:
+Behavioral interviews often use the STAR method:
+Situation – describe the context
+Task – describe your responsibility
+Action – explain what you did
+Result – explain the outcome with numbers if possible.
+
+Technical Interview Tips:
+Always clarify the problem before coding.
+Think out loud while solving problems.
+Start with brute force, then optimize.
+
+Career Advice for Software Engineers:
+Build projects and publish them on GitHub.
+Focus on data structures and algorithms.
+Practice system design basics.
+
+Career Advice for Data Scientists:
+Strong statistics and probability knowledge is required.
+Learn Python libraries: pandas, numpy, scikit-learn.
+Build end-to-end ML projects.
+
+Career Advice for AI Engineers:
+Understand deep learning and neural networks.
+Learn about LLMs, transformers and RAG systems.
+Work with APIs and deployment.
+
+Networking Advice:
+Most jobs come from networking.
+Optimize your LinkedIn profile.
+Attend meetups and career fairs.
+
+Common Career Mistakes:
+Applying without tailoring resume.
+Not preparing for behavioral interviews.
+Not having real projects to show.
